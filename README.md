@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeedLinee
-- 👀 I’m interested in: Spigot Minecraft
+- 👀 I’m interested in: Spigot Minecraft, Discord Bot's
 - 🌱 I’m currently learning: Programming
 - 💞️ I'm looking for cooperation for the Minecraft Server
 - 📫 How to reach me... Currently it is impossible
